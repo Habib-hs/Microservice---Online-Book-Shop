@@ -1,4 +1,4 @@
-# Java Mid Term Project - Team (BJIT SEEKERS)
+
 # Online Book Shop Micro-Service Project
 
 This project is an online book shop application implemented using microservices architecture. It features an API Gateway for secure communication, 
@@ -71,16 +71,6 @@ Our sample microservices-based system consists of the following modules:
 | DELETE  | Delete One Book   | http://localhost:8090/book-service/delete/{id} | ADMIN       |                                                             |
 | PATCH   | Buy One Book      | http://localhost:8090/book-service/book/buy    | USER        | bookId, quantity   
 
-##  Contributors
-
-We are the 4 members who hvae given effort to make this project:
-
-| Name          | Email           | Phone           |
-| ------------- | --------------- | --------------- |
-| Habibullah Howlader    | habibullah.howlader@bjitacademy.com | 01926 690376   |
-| Nazmul Haque| nazmul.haque@bjitacademy.com|  01313 452233   |
-| Jubayer Bin Hedayet |  jubayer.hedayet@bjitacademy.com|  01723 452193   |
-| Alamin Hossain|  alamin.hossain@bjitacademy.com | 01843 452123   |
 
                                          
 ## Reference 
